@@ -2,7 +2,8 @@
 - 👀 I’m interested in Science.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 167788916@qq.com
+- 📫 How to reach me zachwang2021@gmail.com
+
 
 <!---
 WowZachWang/WowZachWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
