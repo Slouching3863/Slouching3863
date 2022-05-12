@@ -2,7 +2,7 @@
 - 👀 I’m interested in science,especially astronomy and meteorology.
 - 🌱 I’m currently learning Python and C++.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me zachwang2021@gmail.com.
+- 📫 How to reach me ...
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=WowZachWang&theme=dark)
 
