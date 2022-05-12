@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zachwang2021@gmail.com.
 
+![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=WowZachWang&theme=dark)
 
 <!---
 WowZachWang/WowZachWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
