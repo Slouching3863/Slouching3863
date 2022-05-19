@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WowZachWang
 - 👀 I’m interested in science,especially astronomy and meteorology.
-- 🌱 I’m currently learning Python and C++.
+- 🌱 I’m currently learning Python, C++, Java, C# and Linux.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
