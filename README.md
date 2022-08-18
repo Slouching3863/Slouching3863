@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WowZachWang
+- 👋 Hi, I’m @Slouching3863
 - 👀 I’m interested in science,especially astronomy and meteorology.
 - 🌱 I’m currently learning Python, C++, Java, C# and Linux.
 - 💞️ I’m looking to collaborate on ...
