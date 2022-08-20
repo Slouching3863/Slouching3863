@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact.rx4jp@simplelogin.co
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=WowZachWang&theme=dark)
+![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=Slouching3863&theme=dark)
 
 <!---
 WowZachWang/WowZachWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
