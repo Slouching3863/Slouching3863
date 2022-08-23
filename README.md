@@ -8,11 +8,11 @@
 
 [My Hydro](https://hydro.ac/user/8021)
 
-[我的台风论坛](https://www.tybbs.org.cn/?109888)
+[My China Typhoon Forum](https://www.tybbs.org.cn/?109888)
 
-[我的牧夫天文论坛](https://bbs.imufu.cn/?350418)
+[My Imufu](https://bbs.imufu.cn/?350418)
 
-[我的洛谷](https://www.luogu.com.cn/user/727453)
+[My Luogu](https://www.luogu.com.cn/user/727453)
 
 [My GitLab](https://gitlab.com/Accustom9023)
 
