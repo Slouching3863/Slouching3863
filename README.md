@@ -8,7 +8,7 @@
 
 [My Hydro](https://hydro.ac/user/8021)
 
-[My China Typhoon Forum](https://www.tybbs.org.cn/?109888)
+[My Tybbs](https://www.tybbs.org.cn/?109888)
 
 [My Imufu](https://bbs.imufu.cn/?350418)
 
