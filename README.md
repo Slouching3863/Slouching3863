@@ -4,9 +4,15 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact.rx4jp@simplelogin.co
 
-[My CSDN](https://blog.csdn.net/weixin_50038684)
+These sites support English:
 
 [My Hydro](https://hydro.ac/user/8021)
+
+[My GitLab](https://gitlab.com/Accustom9023)
+
+[My StackOverFlow](https://stackoverflow.com/users/17522238/enigmatic1185?tab=profile)
+
+These sites do not support English:
 
 [My Tybbs](https://www.tybbs.org.cn/?109888)
 
@@ -14,17 +20,9 @@
 
 [My Luogu](https://www.luogu.com.cn/user/727453)
 
-[My GitLab](https://gitlab.com/Accustom9023)
-
-[My StackOverFlow](https://stackoverflow.com/users/17522238/enigmatic1185?tab=profile)
+[My CSDN](https://blog.csdn.net/weixin_50038684)
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=Slouching3863&theme=dark)
-
-Honours:
-
-China Institute of Electronics Python Level 4
-
-China Institute of Electronics Robotics Level 6
 
 <!---
 WowZachWang/WowZachWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
