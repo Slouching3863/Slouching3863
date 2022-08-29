@@ -10,7 +10,7 @@ These sites support English:
 
 [My GitLab](https://gitlab.com/Accustom9023)
 
-[My StackOverFlow](https://stackoverflow.com/users/17522238/enigmatic1185?tab=profile)
+[My StackOverFlow](https://stackoverflow.com/users/17522238/enigmatic1185)
 
 These sites do not support English:
 
