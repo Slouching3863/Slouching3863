@@ -22,7 +22,7 @@ These sites do not support English:
 
 [My CSDN](https://blog.csdn.net/weixin_50038684)
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=Slouching3863&theme=dark)
+![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=wowzachwang&theme=dark)
 
 <!---
 WowZachWang/WowZachWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
