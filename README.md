@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact.rx4jp@simplelogin.co
 
-For more info for my accounts and contact information, please visit (my blog)[https://sizzling5450.wordpress.com/about-en/].
+For more info for my accounts and contact information, please visit [my blog](https://sizzling5450.wordpress.com/about-en/).
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=Undivided2331&theme=dark)
 
