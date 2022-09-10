@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Slouching3863
+- 👋 Hi, I’m @Undivided2331
 - 👀 I’m interested in science, especially astronomy and meteorology.
 - 🌱 I’m currently learning Python, C++, Java, Arduino and Linux.
 - 💞️ I’m looking to collaborate on ...
