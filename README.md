@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact.rx4jp@simplelogin.co
 
-For more info on my accounts and contact information, please visit my blog on my profile.
+For more information, please visit my blog on my profile.
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?show_icons=true&username=Undivided2331&theme=dark)
 
